@@ -1,6 +1,6 @@
-# cs426_Gerace_Gina_Asgn2
+# Asgn2
 
-Group: Himanshu Dhamija, Frank Buttafuoco, and Gina Gerace
+Group Project
 
 Exec Summary
 In this game, the players are birds that act like a virus. The game is set inside of a maze that represents the inside of a computer. The players move through the maze eating up blocks of RAM to destroy the computer’s data. Both players play as different birds and have free roam to move around the entire maze. 
